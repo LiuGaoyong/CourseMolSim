@@ -11,14 +11,16 @@
             "id": "37d08c6ed1c412c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "FrenkelSmit.pdf",
+                "page": 11,
+                "left": 0,
+                "top": 252,
+                "zoom": 0.6882352941176471
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "FrenkelSmit"
             }
           }
         ]
@@ -112,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "FrenkelSmit.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "FrenkelSmit.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md",
+            "file": "FrenkelSmit.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -165,11 +167,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "37d08c6ed1c412c5",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "FrenkelSmit.pdf"
   ]
 }

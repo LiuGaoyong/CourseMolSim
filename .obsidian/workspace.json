@@ -11,14 +11,12 @@
             "id": "370ce91d62273ae0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "html-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "course/CHE210D/00-CHE210D.html"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "code-glyph",
+              "title": "00-CHE210D"
             }
           }
         ]
@@ -180,9 +178,27 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "370ce91d62273ae0",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "course/CHE210D/00-Syllabus.pdf",
+    "course/CHE210D/L18-Multiscale.pdf",
+    "course/CHE210D/L14-Macroscopic_free_energies_reweighting.pdf",
+    "course/CHE210D/L05-Exploring_the_energy_landscape.pdf",
+    "course/CHE210D/L07-Computing_properties.pdf",
+    "course/CHE210D/L01-Introduction.pdf",
+    "course/CHE210D/link.html",
+    "course/CHE210D/L17-Advanced_sampling.pdf",
+    "course/CHE210D/L16-Other_free_energy_techniques.pdf",
+    "course/CHE210D/L15-Flat_histogram_sampling.pdf",
+    "course/CHE210D/L13-Free_energies_reaction_coordinates.pdf",
+    "README.md"
+  ]
 }
